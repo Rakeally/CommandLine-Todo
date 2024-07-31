@@ -4,6 +4,11 @@ A simple command-line todo list application in Rust.
 
 ## Usage
 
+### Help
+```sh
+cargo run -- 
+```
+
 ### Add a Task
 ```sh
 cargo run -- add "Shop" "Buy groceries tomorrow"
